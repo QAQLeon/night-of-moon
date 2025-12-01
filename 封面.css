@@ -1,0 +1,22 @@
+body{margin:0;
+	background-image:url(圖片/月圓之夜封面圖.png) ;
+	background-size: cover;
+	background-repeat: no-repeat;}		
+h1{ text-align: center;
+	top:20%;
+	left:60%;
+	position:absolute;
+	font-size:100px;
+	transform: translate(10%,-70%);
+	color: #EFF3F5;
+	text-shadow: 2px 2px 5px #ABE1DD;}
+button{  
+	color: #EFF3F5;
+	background-color:#32566E;
+	text-align: center;
+	top:325px;
+	left:65%;
+	position:absolute;
+	font-size:30px;
+	transform: translate(90%,70%);
+	text-shadow: 2px 2px 5px #ABE1DD;}

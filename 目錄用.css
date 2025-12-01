@@ -1,0 +1,30 @@
+body{
+	margin:0;
+	background-color:#0D0D0E;
+	z-index:0;}
+h1{font-size: 60px}
+table{margin:0;
+	text-align:center;}
+td{height: 148px;width: 104px;margin: 0;border: 1px,solid,#ABE1DD;}
+
+#月圓之夜{height: 147.5px;width: 104px;}
+#td月圓之夜{	position: absolute;top:30%;left:31%}
+#小紅帽日記{height: 147.5px;width: 104px;}
+#td小紅帽日記{position: absolute;top:30%;left:42%}
+#鏡中的記憶{height: 147.5px;width: 104px;}
+#td鏡中的記憶{position: absolute;top:30%;left:51%}
+#願望之夜{height: 147.5px;width: 104px;}
+#td願望之夜{	position: absolute;top:30%;left:62%}
+#body{
+	text-align:center;
+	background-image:url("圖片/目錄用.png");
+	background-position:center;
+	box-sizing: border-box;
+	height:100%;
+	width:100%;
+	background-repeat:no-repeat;
+	z-index:1;
+	}
+a{color:#ABE1DD;
+	font-size:20px;
+	}
